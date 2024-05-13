@@ -7,7 +7,8 @@
     <script src="./css/main.css"></script>
 </head>
 <body>
-    <game-board></game-board>
+    <!-- サービスが始まるところ -->
+    <seat-board></seat-board>
     <script type="module" src="./js/main.js"></script>
 </body>
 </html>
